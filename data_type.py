@@ -14,7 +14,7 @@ price = 76.3
 
 # Boolean Type
 
-is_active = True || False 
+is_active = True | False 
 
 
 # Function Type

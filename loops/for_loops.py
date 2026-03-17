@@ -37,7 +37,7 @@ for item, qty in food_lists.items():
 for item in food_lists.key():
     print("Key is:", item)
 
-for item in food_lists.value()
+for item in food_lists.value():
     print("value is:", item)
 
 
