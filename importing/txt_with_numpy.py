@@ -1,15 +1,15 @@
-# WHAT FILES are basic text file containing records, i.e 
+# WHAT FLAT FILES are basic text file containing records, i.e 
     ## table data without a structured relationships
     # Cotains Record: row of fields or attributes
 
 
-# HOW TO IMPORT FILE FROM A FLAT FILE (.csv)
+# HOW TO IMPORT FILE FROM A FLAT FILE (.csv or .txt)
     ## There are 2 main packages for importing FLAT FILES : NumPy, Pandas
         ## NumPy: use this if the Flat file consist entirely of numbers
         ## pandas: use this if we wanna store the data in a dataframe
 
 
-## IMPORTING FLAT FILE using NumPy
+## IMPORTING .txt FLAT FILE  using NumPy
 
 import numpy as np
 
